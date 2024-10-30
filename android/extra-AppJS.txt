@@ -1,0 +1,22 @@
+import { StyleSheet, Text, View } from "react-native";
+import BookIcon from "./src/assets/svg/BookIcon";
+import Icon from 'react-native-vector-icons/FontAwesome';
+
+const App=()=>{
+  return(
+    <View>
+      <Text style={styles.text}>World is getting old</Text>
+      <BookIcon width={200} height={200} opacity={0.5} />
+      <Icon name="music" size={30} />
+    </View>
+  )
+}
+export default App;
+
+const styles = StyleSheet.create({
+  text:{
+    fontSize:30,
+    fontFamily:'Fuzzy Bubbles Regular',
+    color:'white'
+  }
+})

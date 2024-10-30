@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Fuzzy Bubbles Bold.ttf",
+      "sha1": "57062efded86f67fc7c122f01f3eba08f65f6bb4"
+    },
+    {
+      "path": "src/assets/fonts/Fuzzy Bubbles Regular.ttf",
+      "sha1": "61be2e9e6954191b78155577952adf894c19f8e7"
+    },
+    {
+      "path": "src/assets/fonts/FuzzyBubbles-Bold.ttf",
+      "sha1": "57062efded86f67fc7c122f01f3eba08f65f6bb4"
+    },
+    {
+      "path": "src/assets/fonts/FuzzyBubbles-Regular.ttf",
+      "sha1": "61be2e9e6954191b78155577952adf894c19f8e7"
+    }
+  ]
+}
